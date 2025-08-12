@@ -30,3 +30,4 @@ This repository provides a step-by-step guide to extract OpenStreetMap (OSM) dat
 
 -> Cross-check the corresponding location dimensions with Google Maps for confirmation.
 
+<img width="1862" height="920" alt="image" src="https://github.com/user-attachments/assets/4e8802e9-7819-4421-bf95-0639a4e71615" />
