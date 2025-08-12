@@ -1,7 +1,7 @@
 # OpenStreetMap Extraction and RoadRunner Workflow
 This repository provides a step-by-step guide to extract OpenStreetMap (OSM) data for a specific area, process it with RoadRunner, and verify the map output.
 
-##Steps to Extract and Process OpenStreetMap Data
+## Steps to Extract and Process OpenStreetMap Data
 
 ### 1- Extract OpenStreetMap Data:
 
