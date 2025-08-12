@@ -7,11 +7,11 @@ This repository provides a step-by-step guide to extract OpenStreetMap (OSM) dat
 
 -> Visit BBBike Extracts (https://extract.bbbike.org/)
 
--> Use the Add points to polygon option to define a custom polygon for your area of interest. This helps reduce the number of nodes, lowering complexity and resource usage during processing.
+-> Use the "Add points to polygon" option to define a custom polygon for your area of interest. This helps reduce the number of nodes, lowering complexity and resource usage during processing.
 
 -> Select the output format: OSM XML 7z (xz).
 
--> Follow the interface steps to finalize your selection and extract the data. The OSM extract will be sent to your email.
+-> Follow the interface steps to finalize your selection and extract the map data. The OSM data extract will be sent to your email.
 
 ### 2-Import in RoadRunner:
 -> Import the downloaded OpenStreetMap file into RoadRunner.
@@ -24,7 +24,7 @@ This repository provides a step-by-step guide to extract OpenStreetMap (OSM) dat
 -> When exporting, make sure to enable the "Elevate by layers" option to ensure proper elevation layering in the output.
 
 ### 4-Verify Your Map:
--> To validate your map, select a random point (with coordinates x, y, z) on a road.
+-> To validate your map, select a random point (with coordinates x, y, z) on a road from opendrive map.
 
 -> Use the offset values from the exported OpenDRIVE (XODR) file along with the Python script provided in this repository to convert (x, y, z) coordinates to latitude and longitude.
 
